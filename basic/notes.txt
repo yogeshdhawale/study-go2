@@ -1,0 +1,5 @@
+
+
+steps to setup go project
+    go mod init <name>
+    go mod tidy
